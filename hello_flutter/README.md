@@ -8,34 +8,58 @@ This task covers the installation of Flutter and the creation of a first Flutter
 1. Download and install Flutter SDK
 !['Install Flutter SDK'](screeshots/install_flutter_sdk.png)
 
-2. Add Flutter to PATH 
+
+
+3. Add Flutter to PATH 
 ![Add flutter to Path](screeshots/add_flutter_to_path.png)
 
-3. Run flutter doctor 
+
+
+5. Run flutter doctor 
 ![Run Flutter Doctor](screeshots/Run_flutter_doctor.png)
 
-4. Install Android Studio
+
+
+6. Install Android Studio
 ![Install Android Studio]('')
 
-5. Install VS Code with Flutter extension 
+
+
+8. Install VS Code with Flutter extension 
 ![Install VS code with flutter extension ](screeshots/install_vsCode_flutterExtension.png)
 
-6. Run flutter create hello_flutter 
+
+
+
+10. Run flutter create hello_flutter 
 ![Run flutter create hello_flutter](screeshots/Run_flutter_create_hello_world.png)
 
-7. Explore lib/, android/, ios/ folders 
+
+
+
+12. Explore lib/, android/, ios/ folders 
 ![Explore folders](screeshots/Explorefolders%20.png)
 
-8. Open in VS Code 
+
+
+
+14. Open in VS Code 
 ![Open the project in VSCode](screeshots/open_in_vsCode.png)
 
-9. Modify MaterialApp title and theme 
+
+
+
+16. Modify MaterialApp title and theme 
 ![Modify MaterialApp title and theme](screeshots/modify_materialApp.png)
 
-10. Change Text widget content 
+
+
+18. Change Text widget content 
 ![Change Text Widget content](screeshots/change_text_widget_content.png)
 
-11. Run flutter run 
+
+
+20. Run flutter run 
 ![flutter run](screeshots/flutter_run.png)
 
 ## Tools & Technologies
