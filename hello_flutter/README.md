@@ -7,6 +7,7 @@ This task covers the installation of Flutter and the creation of a first Flutter
 
 ## Steps
 
+<<<<<<< HEAD
 1. Download and install Flutter SDK  
    ![Install Flutter SDK](screeshots/install_flutter_sdk.png)
 
